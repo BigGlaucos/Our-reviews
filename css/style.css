@@ -9,6 +9,7 @@ body {
   flex-direction: column;
   background-color: #000;
   font-family: Poppins;
+  overflow-x:hidden;
 }
 
 header h1::after {
